@@ -17,6 +17,7 @@ Baseado em uma reportagem do Nexo Jornal que analisa [gênero e raça de estudan
   - [Notebook](https://nbviewer.jupyter.org/github/nymarya/gender-and-race-ufrn/blob/master/genero_e_raca_todos.ipynb)
 
 [Análise] Relação entre Raça/Cor e Gênero nos cursos (UFRN vs Brasil )
+  - [Notebook](https://nbviewer.jupyter.org/github/nymarya/gender-and-race-ufrn/blob/master/genero_e_raca_todos.ipynb)
   - [Link](https://nymarya.github.io/analise-genero-cor-na-ufrn/)
 
 
