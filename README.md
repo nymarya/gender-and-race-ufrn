@@ -2,16 +2,16 @@
 Baseado em uma reportagem do Nexo Jornal que analisa [gênero e raça de estudantes do ensino superior no Brasil por curso e área](https://www.nexojornal.com.br/grafico/2017/12/13/G%C3%AAnero-e-ra%C3%A7a-de-estudantes-do-ensino-superior-no-Brasil-por-curso-e-%C3%A1rea).
 
 [Análise] Gênero nos cursos
- - [Notebook](https://github/nymarya/gender-and-race-ufrn/blob/master/genero_cursos.ipynb)
+ - [Notebook](https://github.com/nymarya/gender-and-race-ufrn/blob/master/genero_cursos.ipynb)
 
 [Análise] Gênero por área de conhecimento
- - [Notebook](https://github/nymarya/gender-and-race-ufrn/blob/master/genero_areas.ipynb)
+ - [Notebook](https://github.com/nymarya/gender-and-race-ufrn/blob/master/genero_areas.ipynb)
 
 [Análise] Raça/Cor nos cursos [Ao longo do tempo]
-- [Notebook](https://github/nymarya/gender-and-race-ufrn/blob/master/raca_cursos_areas.ipynb)
+- [Notebook](https://github.com/nymarya/gender-and-race-ufrn/blob/master/raca_cursos_areas.ipynb)
 
 [Análise] Raça/Cor nas áreas [Ao longo do tempo]
-- [Notebook](https://github/nymarya/gender-and-race-ufrn/blob/master/raca_cursos_areas_anos.ipynb)
+- [Notebook](https://github.com/nymarya/gender-and-race-ufrn/blob/master/raca_cursos_areas_anos.ipynb)
 
 [Análise] Relação entre Raça/Cor e Gênero nos cursos [Ao longo do tempo]
   - [Notebook](https://nbviewer.jupyter.org/github/nymarya/gender-and-race-ufrn/blob/master/genero_e_raca_todos.ipynb)
