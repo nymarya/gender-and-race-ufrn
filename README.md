@@ -20,6 +20,7 @@ Baseado em uma reportagem do Nexo Jornal que analisa [gênero e raça de estudan
   - [Link]()
 
 
+## Autores
 [<img alt="nymarya" src="https://avatars1.githubusercontent.com/u/23341788?v=2&s=50" width=50>](https://github.com/nymarya) |
 [<img alt="cruxiu"  src="https://avatars3.githubusercontent.com/u/19611403?v=2&s=50" width=50>](https://github.com/cruxiu) |
 [<img alt="vilarjp" src="https://avatars1.githubusercontent.com/u/26348686?v=2&s=50" width=50>](https://github.com/vilarjp) |
